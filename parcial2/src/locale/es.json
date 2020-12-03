@@ -1,0 +1,14 @@
+{
+    "Name": "Nombre",
+    "Directedby" : "Dirigida por",
+    "Country": "Pais",
+    "Budget" : "Presupuesto",
+    "Release" : "Fecha de estreno",
+    "Views" : "No. Vistas",
+    "Description": "Descripcion",
+    "Million" : " Millon",
+    "Millions" : " Millones",
+    "Cast" :"Elenco",
+    "ConMSG":"No hay conexion, no se pudo obtener la informacion",
+    "URL": "https://gist.githubusercontent.com/josejbocanegra/f784b189117d214578ac2358eb0a01d7/raw/2b22960c3f203bdf4fac44cc7e3849689218b8c0/data-es.json"
+}
