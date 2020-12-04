@@ -3,6 +3,7 @@ import "./App.css";
 import { IntlProvider } from "react-intl";
 import localeENMesagger from "./locale/en.json";
 import localeESMesagger from "./locale/es.json";
+import ListTable from "./components/ListTable";
 
 function App() {
   function getBrowserLang() {
@@ -20,7 +21,7 @@ function App() {
   }
   return (
     <IntlProvider locale={getBrowserLang()} messages={getLocale()}>
-      APP
+      <ListTable />
     </IntlProvider>
   );
 }
